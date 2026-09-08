@@ -1,0 +1,56 @@
+services:
+  # ── Ollama ─────────────────────────────────────────────────────────
+  ollama:
+    image: ollama/ollama:latest
+    container_name: insurelens_ollama
+    volumes:
+      - ollama_data:/root/.ollama
+    ports:
+      - "11434:11434"
+    restart: unless-stopped
+    # Pull the model on first start
+    entrypoint: >
+      sh -c "ollama serve &
+             sleep 5 &&
+             ollama pull qwen2.5-coder:7b &&
+             wait"
+
+  # ── FastAPI Backend ─────────────────────────────────────────────────
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: insurelens_api
+    ports:
+      - "8000:8000"
+    volumes:
+      - chroma_data:/app/data/chroma
+      - uploads_data:/app/data/uploads
+    environment:
+      - OLLAMA_BASE_URL=http://ollama:11434
+      - OLLAMA_MODEL=${OLLAMA_MODEL:-qwen2.5-coder:7b}
+      - CHROMA_PERSIST_DIR=data/chroma
+      - CHROMA_COLLECTION=insurance_policies
+      - UPLOAD_DIR=data/uploads
+    depends_on:
+      - ollama
+    restart: unless-stopped
+
+  # ── Streamlit UI ────────────────────────────────────────────────────
+  ui:
+    build:
+      context: .
+      dockerfile: Dockerfile.ui
+    container_name: insurelens_ui
+    ports:
+      - "8501:8501"
+    environment:
+      - INSURELENS_API_URL=http://api:8000
+    depends_on:
+      - api
+    restart: unless-stopped
+
+volumes:
+  ollama_data:
+  chroma_data:
+  uploads_data:

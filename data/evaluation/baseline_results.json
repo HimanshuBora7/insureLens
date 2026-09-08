@@ -1,0 +1,98 @@
+[
+  {
+    "id": "q1",
+    "question": "What is the room rent limit?",
+    "retrieved_pages": [
+      32,
+      32,
+      12,
+      48,
+      14
+    ],
+    "answer": "**1. Direct Answer:**  \nRoom Rent is subject to a maximum of Rs 5,000 per day.\n\n**2. Important Condition(s):**  \n- The room rent must be as provided by the hospital or nursing home.\n- The amount is limited to 2% of the Sum Insured.\n\n**3. Simple Example:**\n- If the Sum Insured is Rs 1,000,000, the maximum Room Rent coverage would be 2% * Rs 1,000,000 = **Rs 20,000 per day**, but this amount cannot exceed Rs 5,000 per day according to the policy.\n\n**4. Source:**  \nPage 32 of AROGYA SANJEEVANI POLICY, CHOLA MS (CHOHLIP20035V021920)"
+  },
+  {
+    "id": "q2",
+    "question": "What is the ICU and ICCU room charge limit?",
+    "retrieved_pages": [
+      32,
+      14,
+      13,
+      14,
+      32
+    ],
+    "answer": "### 1. Direct Answer:\nThe ICU and ICCU room charge limit is **5% of the Sum Insured subject to a maximum of Rs 10,000 per day**.\n\n### 2. Important Condition(s):\n- The charges must be all inclusive as provided by the Hospital/Nursing Home.\n- The benefit is available for up to 60 days from the date of discharge from the hospital.\n\n### 3. Simple Example:\nIf the Sum Insured is Rs 1,000,000 and the ICU/ICCU charges are Rs 5,000 per day:\n- **2% of Sum Insured**: 2% of Rs 1,000,000 = Rs 20,000\n- **Maximum of Rs 10,000 per day**: Rs 10,000\n\nSince the ICU/ICCU charges per day are lower than the maximum allowed, the reimbursement will be based on the actual charges per day.\n\n### 4. Source:\nSOURCE 1 (Page 32)"
+  },
+  {
+    "id": "q3",
+    "question": "What is the cataract treatment sub-limit?",
+    "retrieved_pages": [
+      32,
+      14,
+      14,
+      20,
+      13
+    ],
+    "answer": "**1. Direct answer:**  \nThe cataract treatment sub-limit is 25% of the Sum Insured or Rs 40,000 per eye, whichever is lower.\n\n**2. Important condition(s):**  \n- The maximum amount for cataract treatment coverage under one policy year is limited to 25% of the Sum Insured.\n- Alternatively, it can be up to Rs 40,000 per eye, whichever is lower.\n\n**3. Simple example:**  \nIf the Sum Insured is Rs 10 lakhs, the maximum cataract treatment coverage would be:  \n- 25% of Rs 1,000,000 = Rs 250,000  \nOr  \nRs 40,000 per eye (if higher than 25% of Sum Insured).\n\n**4. Source:**  \nSOURCE 1, PAGE: 32"
+  },
+  {
+    "id": "q4",
+    "question": "How many days of pre-hospitalisation expenses are covered?",
+    "retrieved_pages": [
+      11,
+      14,
+      15,
+      46,
+      22
+    ],
+    "answer": "1. **Direct answer**: The policy covers pre-hospitalisation expenses for a period of 30 days preceding hospitalization.\n\n2. **Important condition(s)**:\n   - Such medical expenses must be incurred for the same condition for which hospitalization was required.\n   - The In-patient Hospitalisation claim for such Hospitalization must be admissible by the Insurance Company.\n\n3. **Simple example using only values and rules explicitly present in the evidence**:\n   - If someone incurs pre-hospitalization expenses on Day 25 of a condition that requires hospitalization, these expenses will be covered.\n   - The policy does not cover pre-hospitalisation expenses incurred more than 30 days before hospitalization.\n\n4. **Source**: Page 11"
+  },
+  {
+    "id": "q5",
+    "question": "How many days of post-hospitalisation expenses are covered?",
+    "retrieved_pages": [
+      14,
+      11,
+      15,
+      14,
+      22
+    ],
+    "answer": "1. The policy covers post-hospitalisation medical expenses for a fixed period of 60 days from the date of discharge from the hospital.\n\n2. Important condition: The hospitalisation must be admissible and require Inpatient care.\n\n3. Example: If an insured person is discharged from a hospital after 15 days, they will be covered for up to 60 additional days of post-hospitalisation expenses.\n\n4. Source: Page 14"
+  },
+  {
+    "id": "q6",
+    "question": "What is the waiting period for pre-existing diseases?",
+    "retrieved_pages": [
+      17,
+      17,
+      17,
+      17,
+      27
+    ],
+    "answer": "1. **Direct answer**: The waiting period for pre-existing diseases is 36 months of continuous coverage after the date of inception of the first policy with the insurer.\n\n2. **Important condition(s)**:\n   - Coverage under the policy after the expiry of 36 months for any pre-existing disease is subject to the same being declared at the time of application and accepted by us.\n   - If the Insured Person is continuously covered without any break as defined under the norms on portability stipulated by IRDAI, then waiting period for the same would be reduced to the extent of prior coverage.\n\n3. **Simple example using only values and rules explicitly present in the evidence**:\n   - If a policyholder has had continuous coverage for 24 months before renewing their policy and wants to claim for a pre-existing condition after renewal, the waiting period will be reduced from 36 months to 12 months.\n\n4. **Source**: Source 4, Page 15 of 50"
+  },
+  {
+    "id": "q7",
+    "question": "What is the standard co-payment under the policy?",
+    "retrieved_pages": [
+      32,
+      23,
+      23,
+      8,
+      29
+    ],
+    "answer": "1. The standard co-payment under the policy is 5%.\n\n2. Important conditions:\n   - If a risk-based co-payment is mentioned in the policy schedule, the standard co-payment of 5% does not apply; instead, only the risk-based co-payment will be applied to the claim amount admissible.\n\n3. Example:\n   - Claim Amount: ₹10,000\n   - Co-Payment: ₹500 (5% of ₹10,000)\n   - Admissible Claim Amount: ₹9,500\n\n4. Source: SOURCE 1 and SOURCE 3 on pages 32 and 23, respectively."
+  },
+  {
+    "id": "q8",
+    "question": "What is the minimum hospitalisation period for admissible hospitalisation expenses?",
+    "retrieved_pages": [
+      32,
+      14,
+      11,
+      14,
+      14
+    ],
+    "answer": "1. The minimum hospitalisation period for admissible hospitalisation expenses is 24 consecutive hours.\n\n2. Important conditions:\n   - This rule applies to in-patient treatment only.\n   - Day care treatments are excluded from this requirement.\n\n3. Simple example: If an insured person stays at the hospital for more than 24 hours after being discharged from a day care centre, their hospitalisation expenses will be admissible under this policy.\n\n4. Source: SOURCE 1, PAGE 30"
+  }
+]

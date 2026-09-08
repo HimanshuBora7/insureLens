@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q1",
+    "question": "What is the room rent limit?",
+    "answer": "**1. Direct answer**\n\nThe room rent limit is 2% of the Sum Insured subject to a maximum of Rs 5,000 per day.\n\n**2. Important condition(s)**\n\n- Sub-limit for Room Rent, Boarding, and Nursing Expenses is 2% of the Sum Insured.\n- The maximum amount is capped at Rs 5,000 per day.\n\n**3. Simple example**\n\nNo example is provided because the policy excerpt does not provide sufficient values.\n\n**Source:** Page 32 — Section 1"
+  },
+  {
+    "id": "q2",
+    "question": "What is the ICU and ICCU room charge limit?",
+    "answer": "**1. Direct answer**\n\nThe ICU and ICCU room charge limit is **5% of the Sum Insured**, with a maximum of **Rs 10,000 per day**.\n\n**2. Important condition(s)**\n\n- This limit applies to charges incurred in an Intensive Care Unit (ICU) or Intensive Cardiac Care Unit (ICCU) provided by the Hospital/Nursing Home.\n- The limit is subject to a maximum of Rs 10,000 per day.\n\n**3. Simple example**\n\nNo example is provided because the policy excerpt does not provide sufficient values.\n\n**Source**\n\nPage 32 — Section 2"
+  },
+  {
+    "id": "q3",
+    "question": "What is the cataract treatment sub-limit?",
+    "answer": "1. **Direct answer:** The cataract treatment sub-limit is up to 25% of the Sum Insured or Rs 40,000, whichever is lower, per eye, under one policy year.\n\n2. **Important condition(s):**\n   - Subject to a maximum of Rs 40,000 per eye.\n   - Applies for cataract treatment.\n   - Per policy year.\n\n3. **Simple example:**\n   - No example is provided because the policy excerpt does not provide sufficient values.\n\n**Source:** Page 32 — Section Cataract Treatment"
+  },
+  {
+    "id": "q4",
+    "question": "How many days of pre-hospitalisation expenses are covered?",
+    "answer": "1. Direct answer\n30 days\n\n2. Important condition(s)\n- The pre-hospitalization expenses must be incurred during the period of 30 days preceding the Hospitalisation.\n- These expenses should not be covered if the Insured Person could be transferred to a Hospital or a Hospital bed was unavailable.\n- If the medical treatment continues for at least 3 days and these conditions are met, the Policy will pay reasonable cost of necessary medical treatment for the entire period.\n\n3. Simple example\nNo example is provided because the policy excerpt does not provide sufficient values.\n\n4. Source\nSource: Page 11 — Section 3.39"
+  },
+  {
+    "id": "q5",
+    "question": "How many days of post-hospitalisation expenses are covered?",
+    "answer": "1. Direct answer\n\nPost-hospitalisation expenses are covered for up to **60 days** from the date of discharge from the hospital.\n\n2. Important condition(s)\n\n- The post-hospitalisation expenses must be related to the same condition for which the Insured Person's in-patient hospitalization was required.\n- The in-patient hospitalization claim must be admissible by the Insurance Company.\n\n3. Simple example\n\nNo example is provided because the policy excerpt does not provide sufficient values.\n\n4. Source\n\nSource: Page 12 — Section 3.41"
+  },
+  {
+    "id": "q6",
+    "question": "What is the waiting period for pre-existing diseases?",
+    "answer": "1. Direct answer\nThe waiting period for pre-existing diseases is 36 months of continuous coverage after the date of inception of the first policy with us.\n\n2. Important condition(s)\n- The exclusion applies to direct complications of pre-existing diseases.\n- This exclusion shall apply afresh to the extent of any Sum Insured increase.\n- If the insured person is continuously covered without any break as defined under norms on portability stipulated by IRDAI, then waiting period for the same would be reduced to the extent of prior coverage.\n\n3. Simple example\nNo example is provided because the policy excerpt does not provide sufficient values.\n\n4. Source\nSource: Page 17 — Section 6.1 Pre-existing Diseases (Code–Excl 01)"
+  },
+  {
+    "id": "q7",
+    "question": "What is the standard co-payment under the policy?",
+    "answer": "**1. Direct answer**\n\nThe standard co-payment under the policy is **5%** of the admissible claim amount. If a Risk-based Co-Payment is mentioned in the policy schedule, the standard Co-Payment of 5% does not apply, and only Risk-based Co-Payment shall be applied.\n\n**2. Important condition(s)**\n\n- The co-payment does not reduce the Sum Insured.\n- The co-payment applies to claim amounts that are admissible and payable as per the terms and conditions of the Policy.\n\n**3. Simple example**\n\nNo example is provided because the policy excerpt does not provide sufficient values.\n\n**Source**\n\nPage 23 — Section 9.3"
+  },
+  {
+    "id": "q8",
+    "question": "What is the minimum hospitalisation period for admissible hospitalisation expenses?",
+    "answer": "1. Direct answer\n   Expenses of hospitalisation for a minimum of 24 consecutive hours only shall be admissible.\n   \n2. Important condition(s)\n   - Minimum hospitalisation period is 24 consecutive hours.\n   - Time limit of 24 hours does not apply when the treatment undergone in a day care centre.\n\n3. Simple example\n   No example is provided because the policy excerpt does not provide sufficient values.\n\n4. Source\n   Source: Page 30 — Section 3.1. Hospitalisation Expenses"
+  }
+]

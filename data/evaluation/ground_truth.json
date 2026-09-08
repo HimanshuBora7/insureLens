@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q1",
+    "expected": "Room Rent is up to 2% of the Sum Insured subject to a maximum of Rs 5,000 per day.",
+    "pages": [32]
+  },
+  {
+    "id": "q2",
+    "expected": "ICU/ICCU charges are up to 5% of the Sum Insured subject to a maximum of Rs 10,000 per day.",
+    "pages": [32]
+  },
+  {
+    "id": "q3",
+    "expected": "Cataract treatment is covered up to 25% of the Sum Insured or Rs 40,000, whichever is lower, per eye, under one policy year.",
+    "pages": [32]
+  },
+  {
+    "id": "q4",
+    "expected": "Pre-hospitalisation expenses are covered for 30 days prior to hospitalisation.",
+    "pages": [32]
+  },
+  {
+    "id": "q5",
+    "expected": "Post-hospitalisation expenses are covered for 60 days from the date of discharge.",
+    "pages": [32]
+  },
+  {
+    "id": "q6",
+    "expected": "The waiting period for pre-existing diseases is 36 months.",
+    "pages": [17]
+  },
+  {
+    "id": "q7",
+    "expected": "The standard co-payment is 5% of the admissible/payable claim amount, unless a risk-based co-payment in the policy schedule overrides it.",
+    "pages": [23, 32]
+  },
+  {
+    "id": "q8",
+    "expected": "Hospitalisation expenses require a minimum of 24 consecutive hours, except for day care treatment.",
+    "pages": [30, 14]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "q1",
+    "question": "What is the room rent limit?"
+  },
+  {
+    "id": "q2",
+    "question": "What is the ICU and ICCU room charge limit?"
+  },
+  {
+    "id": "q3",
+    "question": "What is the cataract treatment sub-limit?"
+  },
+  {
+    "id": "q4",
+    "question": "How many days of pre-hospitalisation expenses are covered?"
+  },
+  {
+    "id": "q5",
+    "question": "How many days of post-hospitalisation expenses are covered?"
+  },
+  {
+    "id": "q6",
+    "question": "What is the waiting period for pre-existing diseases?"
+  },
+  {
+    "id": "q7",
+    "question": "What is the standard co-payment under the policy?"
+  },
+  {
+    "id": "q8",
+    "question": "What is the minimum hospitalisation period for admissible hospitalisation expenses?"
+  }
+]

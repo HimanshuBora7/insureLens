@@ -1,2 +1,24 @@
-.venv
+# Virtual environment
+.venv/
+
+# Environment variables
 .env
+
+# Uploaded documents
+data/uploads/
+
+# Vector database
+data/chroma/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
